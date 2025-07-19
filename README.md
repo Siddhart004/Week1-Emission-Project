@@ -1,2 +1,18 @@
-# Week1-Emission-Project
-Week 1 project for the Skill4Future Internship. This project includes data cleaning and visualization of supply chain emission factors using Pandas, Matplotlib, and Seaborn.
+# Week 1 – Emission Analysis Project
+
+This repository contains the Week 1 task for the Skill4Future Internship.
+
+## What’s Included
+- Cleaned dataset by removing nulls and duplicates
+- Bar chart of top 10 industries with highest emissions
+- Histogram showing emission distribution
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Task Complete ✅
+
